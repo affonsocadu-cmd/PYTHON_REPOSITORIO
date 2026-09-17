@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Alexandre",
+    "email": "a@b.com",
+    "company": "FIAP",
+    "stage": "novo",
+    "created": "2026-09-10"
+  },
+  {
+    "name": "Rogério",
+    "email": "r@b.com",
+    "company": "Nubank",
+    "stage": "novo",
+    "created": "2026-09-10"
+  },
+  {
+    "name": "João",
+    "email": "j@b.com",
+    "company": "Itaú",
+    "stage": "novo",
+    "created": "2026-09-10"
+  },
+  {
+    "name": "Joaquim",
+    "email": "jj@b.com",
+    "company": "Itaú",
+    "stage": "novo",
+    "created": "2026-09-10"
+  }
+]
